@@ -13,4 +13,4 @@ plt.show()
 
 <img src="/images/Screenshot_104.png">
 
-We can see Latin enjoy it with 55%.
+We can see that latin enjoy it with 40,6%.
