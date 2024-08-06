@@ -11,4 +11,4 @@ plt.show()
 ```
 
 Result will be
-<img src="/images/">
+<img src="/images/Screenshot_104.png">
