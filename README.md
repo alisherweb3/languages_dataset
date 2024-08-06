@@ -1,6 +1,6 @@
 # languages_dataset
 
-At the last code
+At the last code result will be
 ```
 # Plot a pie chart of writing systems
 plt.figure(figsize=(8, 8))
@@ -10,5 +10,7 @@ plt.ylabel('')
 plt.show()
 ```
 
-Result will be
+
 <img src="/images/Screenshot_104.png">
+
+We can see Latin enjoy it with 55%.
